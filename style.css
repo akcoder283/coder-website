@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.sections{
+    background-color: cornflowerblue;
+}
+.line{
+    width: 60px;
+    height: 10px;
+    background-color: black;
+    margin-left: 600px;
+}
+img{
+    margin-bottom: 300px;
+}
